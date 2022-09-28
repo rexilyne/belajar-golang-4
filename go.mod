@@ -1,3 +1,3 @@
-module belajar-golang-4
+module github.com/rexilyne/belajar-golang-4
 
 go 1.19
